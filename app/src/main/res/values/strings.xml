@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WifiTransfer</string>
+    <string name="no_wifi">عدم وجود شبکه وای فای</string>
+    <string name="no_wifi_hint">عدم وجود شبکه وای فای ، لطفا تنظیمات وای فای را چک نمایید</string>
+    <string name="wifi_state">وضعیت</string>
+    <string name="instruction">وارد کردن آدرس در کلاینت اف تی پی</string>
+    <string name="instruction_pre">شروع سرویس برای فعال سازی شبکه اف تی پی</string>
+    <string name="start_server">شروع سرویس</string>
+    <string name="stop_server">توقف سرویس</string>
+    <string name="storage_warning">حافظه خارجی در دسترس نیست یا اجازه خواندن اطلاعات وجود ندارد</string>
+    <string name="notif_title">سرور اف تی پی</string>
+
+</resources>
